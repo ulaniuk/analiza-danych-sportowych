@@ -1,207 +1,207 @@
-Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Club,Temperature,Wind,Win streak,Not lose streak,Last 5 games goals for,Last 5 games goals against
-2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Away,L,1,2,Sunderland,49,31549,Tendayi Darikwa,4-2-3-1,Robert Madley,Match Report,,Wigan Athletic,15.2,11.8,0,0,0,0
-2021-08-10,19:45 (20:45),EFL Cup,First round,Tue,Away,D,1,1,Hull City,55,4139,Max Power,4-2-3-1,Martin Coy,Match Report,Wigan Athletic won on penalty kicks following normal time,Wigan Athletic,16.9,11.2,0,0,1,2
-2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Home,W,1,0,Rotherham Utd,61,10217,Tendayi Darikwa,4-2-3-1,Rob Lewis,Match Report,,Wigan Athletic,15.8,9.0,0,1,2,3
-2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Home,D,1,1,Wycombe,57,8671,Tendayi Darikwa,4-2-3-1,Anthony Backhouse,Match Report,,Wigan Athletic,15.3,16.5,1,2,3,3
-2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Away,W,2,0,Charlton Ath,54,13839,Tendayi Darikwa,4-2-3-1,Craig Hicks,Match Report,,Wigan Athletic,17.0,4.3,0,3,4,4
-2021-08-24,19:45 (20:45),EFL Cup,Second round,Tue,Home,D,0,0,Bolton,52,11660,Tendayi Darikwa,4-2-3-1,Thomas Bramall,Match Report,Wigan Athletic won on penalty kicks following normal time,Wigan Athletic,17.4,6.3,1,4,6,4
-2021-08-28,15:00 (16:00),League One,Matchweek 5,Sat,Home,W,1,0,Portsmouth,48,9571,Tendayi Darikwa,4-2-3-1,Chris Sarginson,Match Report,,Wigan Athletic,15.4,6.5,0,5,5,2
-2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Home,W,2,1,Doncaster,63,8975,Tendayi Darikwa,4-2-3-1,Tom Nield,Match Report,,Wigan Athletic,17.3,11.9,1,6,5,1
-2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Away,W,4,1,Acc'ton Stanley,46,4517,Tendayi Darikwa,4-2-3-1,Andy Haines,Match Report,,Wigan Athletic,17.9,5.1,2,7,6,2
-2021-09-21,19:45 (20:45),EFL Cup,Third round,Tue,Home,L,0,2,Sunderland,38,6511,Gavin Massey,4-2-3-1,Leigh Doughty,Match Report,,Wigan Athletic,14.9,6.7,3,8,9,2
-2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Home,W,2,0,Cheltenham,54,8867,Tendayi Darikwa,4-2-3-1,Joshua Smith,Match Report,,Wigan Athletic,18.3,4.9,0,0,7,4
-2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Home,L,1,2,Sheffield Weds,64,11884,Tendayi Darikwa,4-2-3-1,Samuel Barrott,Match Report,,Wigan Athletic,11.6,9.5,1,1,9,4
-2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Away,W,2,0,Gillingham,67,4503,Tendayi Darikwa,4-2-3-1,Neil Hair,Match Report,,Wigan Athletic,10.5,9.5,0,0,9,6
-2021-10-16,15:00 (16:00),League One,Matchweek 13,Sat,Away,W,4,0,Bolton,40,20892,Tendayi Darikwa,4-2-3-1,Charles Breakspear,Match Report,,Wigan Athletic,10.6,5.1,1,1,9,5
-2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Home,L,1,2,MK Dons,57,8351,Tendayi Darikwa,4-2-3-1,Darren Drysdale,Match Report,,Wigan Athletic,16.9,12.2,2,2,9,4
-2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Away,W,2,0,AFC Wimbledon,57,7979,Tendayi Darikwa,4-2-3-1,Oliver Yates,Match Report,,Wigan Athletic,10.7,9.5,0,0,10,4
-2021-10-26,19:45 (20:45),League One,Matchweek 12,Tue,Home,L,1,2,Lincoln City,61,8707,Tendayi Darikwa,4-2-3-1,Seb Stockbridge,Match Report,,Wigan Athletic,12.7,12.1,1,1,10,4
-2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Home,W,2,0,Burton Albion,72,9020,Tendayi Darikwa,3-5-2,Carl Brook,Match Report,,Wigan Athletic,10.6,11.6,0,0,10,4
-2021-11-02,19:45 (20:45),League One,Matchweek 6,Tue,Away,W,3,2,Fleetwood Town,63,3246,Tendayi Darikwa,3-5-2,Ross Joyce,Match Report,,Wigan Athletic,7.3,7.2,1,1,10,4
-2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Home,D,0,0,Solihull Moors,57,2843,Tendayi Darikwa,4-2-3-1,Daniel Middleton,Match Report,,Wigan Athletic,11.2,16.4,2,2,9,6
-2021-11-16,19:45 (20:45),FA Cup,First round proper,Tue,Away,W,2,1,Solihull Moors,66,3703,Tendayi Darikwa,4-2-3-1,Charles Breakspear,Match Report,Required Extra Time,Wigan Athletic,10.3,7.1,0,3,8,4
-2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Away,D,2,2,Cambridge Utd,64,4101,Max Power,4-3-3,Declan Bourne,Match Report,,Wigan Athletic,6.7,6.3,1,4,8,5
-2021-11-27,15:00 (16:00),League One,Matchweek 20,Sat,Away,W,2,1,Plymouth Argyle,46,15329,Tendayi Darikwa,3-4-1-2,Andy Woolmer,Match Report,,Wigan Athletic,3.1,31.2,0,5,9,5
-2021-12-05,12:30 (13:30),FA Cup,Second round proper,Sun,Away,W,2,1,Colchester Utd,48,2056,Max Power,3-4-1-2,Carl Brook,Match Report,,Wigan Athletic,5.5,17.5,1,6,9,6
-2021-12-08,19:45 (20:45),League One,Matchweek 21,Wed,Home,W,2,1,Shrewsbury,62,8098,Tendayi Darikwa,4-2-3-1,David Rock,Match Report,,Wigan Athletic,5.7,25.0,2,7,8,5
-2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Home,D,1,1,Ipswich Town,52,10296,Tendayi Darikwa,4-2-3-1,Trevor Kettle,Match Report,,Wigan Athletic,6.2,8.8,3,8,10,6
-2021-12-18,15:00 (16:00),League One,Matchweek 23,Sat,Away,W,3,2,Oxford United,42,8354,Tendayi Darikwa,4-2-3-1,James Bell,Match Report,,Wigan Athletic,5.4,4.1,0,9,9,6
-2022-01-08,15:00 (16:00),FA Cup,Third round proper,Sat,Home,W,3,2,Blackburn,52,9892,Tendayi Darikwa,3-4-3,Tim Robinson,Match Report,,Wigan Athletic,5.7,14.7,1,10,10,6
-2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Away,W,2,1,Doncaster,59,7169,Tendayi Darikwa,4-2-3-1,Alan Young,Match Report,,Wigan Athletic,2.6,5.5,2,11,11,7
-2022-01-18,19:45 (20:45),League One,Matchweek 17,Tue,Away,W,2,1,Morecambe,56,5359,Tendayi Darikwa,4-2-3-1,Samuel Barrott,Match Report,,Wigan Athletic,2.2,6.0,3,12,11,7
-2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Home,W,3,2,Gillingham,61,9359,Tendayi Darikwa,,Carl Boyeson,Match Report,,Wigan Athletic,6.4,8.3,4,13,11,7
-2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Away,D,0,0,Cheltenham,52,4405,Tendayi Darikwa,4-2-3-1,Paul Howard,Match Report,,Wigan Athletic,9.9,24.4,5,14,13,8
-2022-02-01,19:45 (20:45),League One,Matchweek 18,Tue,Home,D,1,1,Oxford United,54,9958,Tendayi Darikwa,4-2-3-1,Andrew Kitchen,Match Report,,Wigan Athletic,9.9,30.0,0,15,10,6
-2022-02-05,15:00 (16:00),FA Cup,Fourth round proper,Sat,Away,L,0,2,Stoke City,52,12641,Max Power,4-2-3-1,Geoff Eltringham,Match Report,,Wigan Athletic,6.2,21.1,0,16,8,5
-2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Away,L,0,1,Sheffield Weds,54,20210,Tendayi Darikwa,4-2-3-1,Tim Robinson,Match Report,,Wigan Athletic,11.2,24.5,0,0,6,6
-2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Home,W,2,1,Charlton Ath,55,9657,Tendayi Darikwa,3-4-3,Tom Nield,Match Report,,Wigan Athletic,6.4,16.3,0,0,4,6
-2022-02-15,19:45 (20:45),League One,Matchweek 31,Tue,Home,W,2,0,Crewe Alexandra,55,8509,Tendayi Darikwa,4-2-3-1,Tom Reeves,Match Report,,Wigan Athletic,6.5,15.3,1,1,3,5
-2022-02-18,19:45 (20:45),League One,Matchweek 34,Fri,Away,D,1,1,Rotherham Utd,38,10588,Max Power,3-4-1-2,Jeremy Simpson,Match Report,,Wigan Athletic,5.8,29.5,2,2,5,5
-2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Away,W,3,1,Wycombe,69,4826,Tendayi Darikwa,4-2-3-1,Thomas Bramall,Match Report,,Wigan Athletic,7.9,19.6,0,3,5,5
-2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Home,L,0,3,Sunderland,57,20136,Tendayi Darikwa,4-2-3-1,Sam Purkiss,Match Report,,Wigan Athletic,6.6,11.1,1,4,8,4
-2022-03-01,19:45 (20:45),League One,Matchweek 25,Tue,Home,W,2,0,Fleetwood Town,55,8627,Tendayi Darikwa,4-2-3-1,Martin Coy,Match Report,,Wigan Athletic,6.1,10.4,0,0,8,6
-2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Home,W,1,0,AFC Wimbledon,49,9780,Max Power,4-2-3-1,Oliver Langford,Match Report,,Wigan Athletic,5.4,15.9,1,1,8,5
-2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Away,D,1,1,MK Dons,41,11193,Max Power,3-4-3,Robert Madley,Match Report,,Wigan Athletic,9.5,14.2,2,2,7,5
-2022-03-15,19:45 (20:45),League One,Matchweek 24,Tue,Away,W,2,0,Crewe Alexandra,52,5310,Tendayi Darikwa,3-4-3,Ben Toner,Match Report,,Wigan Athletic,8.4,7.0,0,3,7,5
-2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Home,W,4,1,Morecambe,61,10072,Tendayi Darikwa,3-4-1-2,James Oldham,Match Report,,Wigan Athletic,10.1,12.8,1,4,6,4
-2022-04-02,12:30 (13:30),League One,Matchweek 41,Sat,Home,D,1,1,Bolton,41,15279,Tendayi Darikwa,3-4-3,Samuel Barrott,Match Report,,Wigan Athletic,4.1,5.3,2,5,10,2
-2022-04-05,19:45 (20:45),League One,Matchweek 26,Tue,Home,W,3,0,Acc'ton Stanley,53,9786,Tendayi Darikwa,3-4-3,Anthony Backhouse,Match Report,,Wigan Athletic,10.6,27.4,0,6,9,3
-2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Away,W,3,1,Lincoln City,42,9498,Tendayi Darikwa,3-4-1-2,Scott Oldham,Match Report,,Wigan Athletic,4.9,12.9,1,7,11,3
-2022-04-12,19:45 (20:45),League One,Matchweek 40,Tue,Away,D,0,0,Burton Albion,52,3589,Tendayi Darikwa,3-4-1-2,Andy Haines,Match Report,,Wigan Athletic,11.4,8.0,2,8,13,3
-2022-04-16,17:15 (18:15),League One,Matchweek 43,Sat,Home,L,1,2,Cambridge Utd,68,10576,Tendayi Darikwa,4-2-3-1,Ross Joyce,Match Report,,Wigan Athletic,14.6,8.3,0,9,11,3
-2022-04-19,19:45 (20:45),League One,Matchweek 44,Tue,Away,D,2,2,Ipswich Town,37,21329,Tendayi Darikwa,3-4-3,Will Finnie,Match Report,,Wigan Athletic,9.7,6.3,0,0,8,4
-2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Home,D,1,1,Plymouth Argyle,64,14130,Tendayi Darikwa,3-4-1-2,Seb Stockbridge,Match Report,,Wigan Athletic,10.9,24.1,0,1,9,5
-2022-04-26,19:45 (20:45),League One,Matchweek 27,Tue,Away,L,2,3,Portsmouth,46,14637,Tendayi Darikwa,3-4-1-2,Craig Hicks,Match Report,,Wigan Athletic,9.5,7.9,0,2,7,6
-2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Away,W,3,0,Shrewsbury,57,8369,Tendayi Darikwa,3-1-4-2,Steve Martin,Match Report,,Wigan Athletic,10.1,7.9,0,0,6,8
-2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Home,W,2,1,Acc'ton Stanley,39,4551,Joe Jacobson,5-3-2,Charles Breakspear,Match Report,,Wycombe Wanderers,15.2,11.8,0,0,0,0
-2021-08-10,19:45 (20:45),EFL Cup,First round,Tue,Away,D,0,0,Exeter City,40,2555,Matt Bloomfield,3-4-3,David Rock,Match Report,Wycombe won on penalty kicks following normal time,Wycombe Wanderers,16.9,11.2,0,0,2,1
-2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Away,W,3,1,Cheltenham,40,3860,Joe Jacobson,5-3-2,Carl Boyeson,Match Report,,Wycombe Wanderers,15.8,9.0,0,1,2,1
-2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Away,D,1,1,Wigan Athletic,43,8671,Joe Jacobson,5-3-2,Anthony Backhouse,Match Report,,Wycombe Wanderers,15.3,16.5,1,2,5,2
-2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Home,W,1,0,Lincoln City,39,5030,Joe Jacobson,5-3-2,James Bell,Match Report,,Wycombe Wanderers,17.0,4.3,0,3,6,3
-2021-08-24,19:45 (20:45),EFL Cup,Second round,Tue,Away,D,2,2,Stevenage,42,3292,Adebayo Akinfenwa,3-4-3,Declan Bourne,Match Report,Wycombe won on penalty kicks following normal time,Wycombe Wanderers,17.4,6.3,1,4,7,3
-2021-08-28,15:00 (16:00),League One,Matchweek 5,Sat,Away,L,1,3,Sunderland,49,29344,Joe Jacobson,3-4-3,John Busby,Match Report,,Wycombe Wanderers,15.4,6.5,0,5,7,4
-2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Away,D,0,0,Oxford United,33,9082,Joe Jacobson,3-4-1-2,Chris Sarginson,Match Report,,Wycombe Wanderers,17.3,11.9,0,0,8,7
-2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Home,W,2,1,Charlton Ath,41,5832,Joe Jacobson,4-1-3-2,Peter Wright,Match Report,,Wycombe Wanderers,17.9,5.1,0,1,5,6
-2021-09-21,19:45 (20:45),EFL Cup,Third round,Tue,Away,L,1,6,Manchester City,21,30959,Adebayo Akinfenwa,3-1-4-2,Robert Jones,Match Report,,Wycombe Wanderers,14.9,6.7,1,2,6,6
-2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Away,L,0,1,MK Dons,21,9355,Joe Jacobson,4-1-3-2,Scott Oldham,Match Report,,Wycombe Wanderers,18.3,4.9,0,0,6,12
-2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Away,W,2,1,Shrewsbury,47,4510,Joe Jacobson,5-3-2,Ross Joyce,Match Report,,Wycombe Wanderers,11.6,9.5,0,0,4,11
-2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Home,W,4,3,Morecambe,53,4161,Joe Jacobson,4-1-3-2,Tom Reeves,Match Report,,Wycombe Wanderers,10.5,9.5,1,1,5,9
-2021-10-09,15:00 (16:00),League One,Matchweek 12,Sat,Home,W,2,0,Gillingham,50,4992,Joe Jacobson,4-1-3-2,Kevin Friend,Match Report,,Wycombe Wanderers,15.1,3.8,2,2,9,12
-2021-10-16,15:00 (16:00),League One,Matchweek 13,Sat,Away,W,2,0,Doncaster,35,6134,Adebayo Akinfenwa,3-4-1-2,Seb Stockbridge,Match Report,,Wycombe Wanderers,10.6,5.1,3,3,9,11
-2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Away,D,0,0,Rotherham Utd,43,8104,Joe Jacobson,3-4-3,Robert Madley,Match Report,,Wycombe Wanderers,16.9,12.2,4,4,10,5
-2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Home,W,2,1,Crewe Alexandra,47,4813,Joe Jacobson,3-4-1-2,Steve Martin,Match Report,,Wycombe Wanderers,10.7,9.5,0,5,10,4
-2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Away,D,3,3,Fleetwood Town,38,2657,Adebayo Akinfenwa,4-4-2,Andrew Kitchen,Match Report,,Wycombe Wanderers,10.6,11.6,1,6,10,4
-2021-11-02,19:45 (20:45),League One,Matchweek 6,Tue,Home,L,1,4,Ipswich Town,41,6943,Joe Jacobson,3-4-3,Lee Swabey,Match Report,,Wycombe Wanderers,7.3,7.2,0,7,9,4
-2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Away,D,2,2,Hartlepool Utd,42,4271,Joe Jacobson,3-4-3,Darren Drysdale,Match Report,,Wycombe Wanderers,11.2,16.4,0,0,8,8
-2021-11-13,15:00 (16:00),League One,Matchweek 17,Sat,Home,L,0,1,Portsmouth,56,6471,Joe Jacobson,3-4-3,Neil Hair,Match Report,,Wycombe Wanderers,10.7,10.0,0,1,8,10
-2021-11-16,19:45 (20:45),FA Cup,First round proper,Tue,Home,L,0,1,Hartlepool Utd,58,1582,Adebayo Akinfenwa,3-4-3,Chris Pollard,Match Report,,Wycombe Wanderers,10.3,7.1,0,0,8,11
-2021-11-20,15:00 (16:00),League One,Matchweek 18,Sat,Home,W,1,0,Bolton,43,5710,Jason McCarthy,3-4-1-2,James Oldham,Match Report,,Wycombe Wanderers,10.4,13.5,0,0,6,11
-2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Away,W,3,0,Plymouth Argyle,34,12833,Joe Jacobson,3-4-1-2,Alan Young,Match Report,,Wycombe Wanderers,6.7,6.3,1,1,4,8
-2021-11-27,15:00 (16:00),League One,Matchweek 20,Sat,Away,D,2,2,Sheffield Weds,40,20761,Jason McCarthy,3-4-1-2,Darren Drysdale,Match Report,,Wycombe Wanderers,3.1,31.2,2,2,6,4
-2021-12-07,19:45 (20:45),League One,Matchweek 21,Tue,Home,W,2,1,Burton Albion,50,3602,Joe Jacobson,3-4-3,Joshua Smith,Match Report,,Wycombe Wanderers,5.1,16.2,0,3,6,4
-2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Home,D,2,2,AFC Wimbledon,56,4915,Joe Jacobson,3-4-1-2,Will Finnie,Match Report,,Wycombe Wanderers,6.2,8.8,1,4,8,4
-2021-12-29,19:45 (20:45),League One,Matchweek 25,Wed,Away,L,0,1,Ipswich Town,41,26456,Joe Jacobson,3-1-4-2,Samuel Barrott,Match Report,,Wycombe Wanderers,9.1,10.9,0,5,10,5
-2022-01-01,15:00 (16:00),League One,Matchweek 26,Sat,Away,W,1,0,Charlton Ath,38,18895,Joe Jacobson,3-4-1-2,Paul Howard,Match Report,,Wycombe Wanderers,13.1,14.5,0,0,9,6
-2022-01-08,12:30 (13:30),League One,Matchweek 27,Sat,Home,D,3,3,Sunderland,44,7229,Joe Jacobson,3-4-1-2,Charles Breakspear,Match Report,,Wycombe Wanderers,5.7,14.7,1,1,7,6
-2022-01-11,20:00 (21:00),League One,Matchweek 23,Tue,Away,W,2,0,Bolton,43,12584,Joe Jacobson,3-4-1-2,Peter Wright,Match Report,,Wycombe Wanderers,6.8,6.7,0,2,8,7
-2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Home,W,2,0,Oxford United,43,8005,Joe Jacobson,3-4-3,Anthony Backhouse,Match Report,,Wycombe Wanderers,2.6,5.5,1,3,8,6
-2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Away,L,2,3,Morecambe,50,3865,Adebayo Akinfenwa,,Ben Toner,Match Report,,Wycombe Wanderers,6.4,8.3,2,4,8,4
-2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Home,L,0,1,MK Dons,47,7345,Joe Jacobson,3-4-3,Rob Lewis,Match Report,,Wycombe Wanderers,9.9,24.4,0,0,10,6
-2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Home,D,0,0,Shrewsbury,62,3871,Joe Jacobson,3-4-1-2,Sam Purkiss,Match Report,,Wycombe Wanderers,11.2,24.5,0,0,9,7
-2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Away,D,1,1,Lincoln City,55,8319,Joe Jacobson,3-4-1-2,Oliver Yates,Match Report,,Wycombe Wanderers,6.4,16.3,0,1,6,4
-2022-02-19,15:00 (16:00),League One,Matchweek 34,Sat,Home,D,5,5,Cheltenham,48,5574,Joe Jacobson,3-4-1-2,Neil Hair,Match Report,,Wycombe Wanderers,3.1,14.6,0,2,5,5
-2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Home,L,1,3,Wigan Athletic,32,4826,Sam Vokes,4-3-1-2,Thomas Bramall,Match Report,,Wycombe Wanderers,7.9,19.6,0,3,8,10
-2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Away,L,2,3,Acc'ton Stanley,44,2242,Joe Jacobson,3-4-3,Robert Madley,Match Report,,Wycombe Wanderers,6.6,11.1,0,0,7,10
-2022-03-01,19:45 (20:45),League One,Matchweek 24,Tue,Home,W,3,0,Cambridge Utd,42,4083,Jason McCarthy,4-3-2-1,James Oldham,Match Report,,Wycombe Wanderers,6.1,10.4,0,0,9,12
-2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Away,W,3,1,Crewe Alexandra,40,4031,Jason McCarthy,4-2-3-1,Andy Haines,Match Report,,Wycombe Wanderers,5.4,15.9,1,1,12,12
-2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Home,D,0,0,Rotherham Utd,54,5742,Joe Jacobson,4-2-3-1,Craig Hicks,Match Report,,Wycombe Wanderers,9.5,14.2,2,2,14,12
-2022-03-15,19:45 (20:45),League One,Matchweek 40,Tue,Home,W,1,0,Fleetwood Town,55,3391,Joe Jacobson,4-2-3-1,Joshua Smith,Match Report,,Wycombe Wanderers,8.4,7.0,0,3,9,7
-2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Away,D,0,0,Portsmouth,49,15092,Joe Jacobson,4-2-3-1,Ben Speedie,Match Report,,Wycombe Wanderers,10.1,12.8,1,4,9,4
-2022-04-02,15:00 (16:00),League One,Matchweek 41,Sat,Home,W,2,0,Doncaster,41,5943,Joe Jacobson,4-2-3-1,John Busby,Match Report,,Wycombe Wanderers,4.1,5.3,0,5,7,1
-2022-04-05,19:45 (20:45),League One,Matchweek 31,Tue,Away,W,4,1,Cambridge Utd,42,4751,Joe Jacobson,4-2-3-1,Will Finnie,Match Report,,Wycombe Wanderers,10.6,27.4,1,6,6,1
-2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Away,D,1,1,Gillingham,54,4858,Joe Jacobson,4-2-3-1,Simon Mather,Match Report,,Wycombe Wanderers,4.9,12.9,2,7,7,1
-2022-04-15,15:00 (16:00),League One,Matchweek 43,Fri,Home,W,2,0,Plymouth Argyle,42,8181,Joe Jacobson,4-2-3-1,Darren Drysdale,Match Report,,Wycombe Wanderers,14.1,6.2,0,8,8,2
-2022-04-18,15:00 (16:00),League One,Matchweek 44,Mon,Away,D,1,1,AFC Wimbledon,58,8502,Jason McCarthy,4-2-3-1,Samuel Barrott,Match Report,,Wycombe Wanderers,10.9,8.0,1,9,9,2
-2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Home,W,1,0,Sheffield Weds,47,9005,Joe Jacobson,4-2-3-1,Andrew Davies,Match Report,,Wycombe Wanderers,10.9,24.1,0,10,10,3
-2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Away,W,2,1,Burton Albion,48,4440,Joe Jacobson,4-2-3-1,Robert Madley,Match Report,,Wycombe Wanderers,10.1,7.9,1,11,9,3
-2022-05-05,19:45 (20:45),League One,Semi-finals,Thu,Home,W,2,0,MK Dons,49,8987,Joe Jacobson,4-2-3-1,Darren Bond,Match Report,Leg 1 of 2,Wycombe Wanderers,12.9,8.4,2,12,7,3
-2022-05-08,18:30 (19:30),League One,Semi-finals,Sun,Away,L,0,1,MK Dons,32,13012,Joe Jacobson,4-2-3-1,Thomas Bramall,Match Report,Leg 2 of 2; Wycombe won,Wycombe Wanderers,12.5,5.9,3,13,8,2
-2022-05-21,15:00 (16:00),League One,Final,Sat,Neutral,L,0,2,Sunderland,51,72332,Joe Jacobson,4-2-3-1,Simon Hooper,Match Report,,Wycombe Wanderers,13.5,10.8,0,0,6,3
-2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Away,W,1,0,Shrewsbury,37,5903,John Brayford,4-2-3-1,Anthony Backhouse,Match Report,,Burton Albion,15.2,11.8,0,0,0,0
-2021-08-11,19:45 (20:45),EFL Cup,First round,Wed,Home,D,1,1,Oxford United,41,1868,John Brayford,4-2-3-1,Seb Stockbridge,Match Report,Oxford United won on penalty kicks following normal time,Burton Albion,16.5,8.7,0,0,1,0
-2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Home,W,2,1,Ipswich Town,35,3766,John Brayford,4-2-3-1,Sam Purkiss,Match Report,,Burton Albion,15.8,9.0,0,1,2,1
-2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Home,W,1,0,Sunderland,40,4239,John Brayford,4-2-3-1,Declan Bourne,Match Report,,Burton Albion,15.3,16.5,1,2,4,2
-2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Away,L,0,3,Cambridge Utd,49,4468,John Brayford,4-2-3-1,Ben Toner,Match Report,,Burton Albion,17.0,4.3,2,3,5,2
-2021-08-27,19:45 (20:45),League One,Matchweek 5,Fri,Home,D,1,1,Cheltenham,56,2909,John Brayford,4-2-3-1,Scott Oldham,Match Report,,Burton Albion,15.2,10.2,0,0,5,5
-2021-09-06,20:00 (21:00),League One,Matchweek 6,Mon,Away,D,0,0,Bolton,26,13305,John Brayford,4-2-3-1,Joshua Smith,Match Report,,Burton Albion,19.3,4.5,0,1,5,6
-2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Home,D,1,1,Gillingham,55,2555,Michael Bostwick,4-2-3-1,Carl Boyeson,Match Report,,Burton Albion,17.3,11.9,0,2,4,5
-2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Away,L,0,2,Crewe Alexandra,53,4482,John Brayford,4-2-3-1,Ross Joyce,Match Report,,Burton Albion,17.9,5.1,0,3,3,5
-2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Home,L,1,2,Lincoln City,54,3359,John Brayford,4-2-3-1,Craig Hicks,Match Report,,Burton Albion,18.3,4.9,0,0,2,7
-2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Home,W,2,1,Portsmouth,32,2810,John Brayford,4-2-3-1,Tom Nield,Match Report,,Burton Albion,11.6,9.5,0,0,3,6
-2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Away,D,1,1,AFC Wimbledon,41,7413,John Brayford,4-2-3-1,Lee Swabey,Match Report,,Burton Albion,10.5,9.5,1,1,4,6
-2021-10-09,15:00 (16:00),League One,Matchweek 12,Sat,Away,L,1,2,Plymouth Argyle,41,11915,Deji Oshilaja,4-2-3-1,Anthony Coggins,Match Report,,Burton Albion,15.1,3.8,0,2,5,7
-2021-10-15,19:45 (20:45),League One,Matchweek 13,Fri,Home,W,3,2,Morecambe,42,2477,Deji Oshilaja,4-2-3-1,Martin Coy,Match Report,,Burton Albion,10.4,7.3,0,0,5,8
-2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Away,W,1,0,Fleetwood Town,37,2226,Deji Oshilaja,3-4-1-2,Simon Mather,Match Report,,Burton Albion,16.9,12.2,1,1,8,8
-2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Home,L,1,3,Oxford United,40,3391,Deji Oshilaja,3-4-1-2,Samuel Barrott,Match Report,,Burton Albion,10.7,9.5,2,2,8,6
-2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Away,L,0,2,Wigan Athletic,28,9020,Deji Oshilaja,3-5-2,Carl Brook,Match Report,,Burton Albion,10.6,11.6,0,0,7,8
-2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Away,W,2,1,Fleetwood Town,41,1362,Deji Oshilaja,3-4-1-2,Tom Reeves,Match Report,,Burton Albion,11.2,16.4,0,0,6,9
-2021-11-13,15:00 (16:00),League One,Matchweek 17,Sat,Home,L,0,1,Charlton Ath,56,3555,Deji Oshilaja,3-4-1-2,Trevor Kettle,Match Report,,Burton Albion,10.7,10.0,1,1,7,8
-2021-11-20,15:00 (16:00),League One,Matchweek 18,Sat,Away,L,0,1,MK Dons,55,9770,Michael Bostwick,3-4-1-2,Neil Hair,Match Report,,Burton Albion,10.4,13.5,0,0,4,7
-2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Home,W,4,0,Acc'ton Stanley,59,1946,Ben Garratt,3-4-3,Darren Drysdale,Match Report,,Burton Albion,6.7,6.3,0,0,3,8
-2021-11-27,15:00 (16:00),League One,Matchweek 20,Sat,Home,W,2,0,Doncaster,60,2954,Ben Garratt,3-4-3,Peter Wright,Match Report,,Burton Albion,3.1,31.2,1,1,6,5
-2021-12-04,15:00 (16:00),FA Cup,Second round proper,Sat,Home,L,1,2,Port Vale,54,3539,Ben Garratt,3-4-3,Martin Coy,Match Report,,Burton Albion,5.9,24.6,2,2,8,3
-2021-12-07,19:45 (20:45),League One,Matchweek 21,Tue,Away,L,1,2,Wycombe,50,3602,Ben Garratt,3-4-3,Joshua Smith,Match Report,,Burton Albion,5.1,16.2,0,0,7,4
-2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Away,L,1,3,Rotherham Utd,52,9007,Ben Garratt,3-4-3,Samuel Allison,Match Report,,Burton Albion,6.2,8.8,0,0,8,5
-2022-01-01,15:00 (16:00),League One,Matchweek 26,Sat,Home,W,4,1,Crewe Alexandra,37,3119,John Brayford,3-4-3,Peter Wright,Match Report,,Burton Albion,13.1,14.5,0,0,9,7
-2022-01-08,15:00 (16:00),League One,Matchweek 27,Sat,Away,D,1,1,Cheltenham,49,3201,John Brayford,3-4-3,David Rock,Match Report,,Burton Albion,5.7,14.7,1,1,9,8
-2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Away,W,3,1,Gillingham,48,4198,John Brayford,3-4-1-2,Thomas Bramall,Match Report,,Burton Albion,2.6,5.5,0,2,8,9
-2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Home,D,1,1,AFC Wimbledon,61,2768,John Brayford,3-4-1-2,Andrew Kitchen,Match Report,,Burton Albion,6.4,8.3,1,3,10,8
-2022-01-25,19:45 (20:45),League One,Matchweek 23,Tue,Home,L,0,1,MK Dons,35,2171,John Brayford,3-4-1-2,Darren Handley,Match Report,,Burton Albion,2.1,4.5,0,4,10,7
-2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Away,W,2,1,Lincoln City,40,9159,John Brayford,3-4-1-2,Charles Breakspear,Match Report,,Burton Albion,9.9,24.4,0,0,9,5
-2022-02-05,15:00 (16:00),League One,Matchweek 31,Sat,Home,L,0,2,Sheffield Weds,50,4763,John Brayford,3-4-3,Alan Young,Match Report,,Burton Albion,6.2,21.1,1,1,7,5
-2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Away,L,1,2,Portsmouth,52,13407,Michael Mancienne,3-4-3,Craig Hicks,Match Report,,Burton Albion,11.2,24.5,0,0,6,6
-2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Home,D,2,2,Cambridge Utd,50,2578,John Brayford,3-4-1-2,Marc Edwards,Match Report,,Burton Albion,6.4,16.3,0,0,4,7
-2022-02-15,19:45 (20:45),League One,Matchweek 25,Tue,Home,W,3,1,Bolton,40,3487,John Brayford,3-4-1-2,Scott Oldham,Match Report,,Burton Albion,6.5,15.3,0,1,5,8
-2022-02-19,15:00 (16:00),League One,Matchweek 34,Sat,Away,L,0,3,Ipswich Town,43,20516,John Brayford,3-4-1-2,Carl Brook,Match Report,,Burton Albion,3.1,14.6,1,2,8,8
-2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Away,D,1,1,Sunderland,34,30237,John Brayford,4-5-1,Oliver Yates,Match Report,,Burton Albion,7.9,19.6,0,0,6,10
-2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Home,L,0,2,Shrewsbury,62,3258,John Brayford,3-5-2,Ben Speedie,Match Report,,Burton Albion,6.6,11.1,0,1,7,9
-2022-03-01,19:45 (20:45),League One,Matchweek 24,Tue,Away,L,2,5,Sheffield Weds,42,20309,John Brayford,3-4-1-2,Samuel Barrott,Match Report,,Burton Albion,6.1,10.4,0,0,6,9
-2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Away,L,1,4,Oxford United,41,7631,John Brayford,3-4-3,Sam Purkiss,Match Report,,Burton Albion,5.4,15.9,0,0,6,12
-2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Home,W,3,2,Fleetwood Town,51,2648,John Brayford,4-2-3-1,Oliver Langford,Match Report,,Burton Albion,9.5,14.2,0,0,4,15
-2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Away,L,0,2,Charlton Ath,54,11348,John Brayford,4-2-3-1,Rebecca Welch,Match Report,,Burton Albion,10.1,12.8,1,1,7,14
-2022-04-02,15:00 (16:00),League One,Matchweek 41,Sat,Away,L,0,3,Morecambe,41,5238,John Brayford,4-2-3-1,Ross Joyce,Match Report,,Burton Albion,4.1,5.3,0,0,6,15
-2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Home,D,0,0,Plymouth Argyle,48,3938,John Brayford,3-4-1-2,Leigh Doughty,Match Report,,Burton Albion,4.9,12.9,0,0,6,16
-2022-04-12,19:45 (20:45),League One,Matchweek 40,Tue,Home,D,0,0,Wigan Athletic,48,3589,John Brayford,3-4-1-2,Andy Haines,Match Report,,Burton Albion,11.4,8.0,0,1,4,11
-2022-04-15,15:00 (16:00),League One,Matchweek 43,Fri,Away,D,0,0,Acc'ton Stanley,42,2513,John Brayford,3-4-1-2,Oliver Yates,Match Report,,Burton Albion,14.1,6.2,0,2,3,7
-2022-04-19,19:45 (20:45),League One,Matchweek 44,Tue,Home,W,2,0,Rotherham Utd,42,3537,John Brayford,3-4-1-2,Tom Reeves,Match Report,,Burton Albion,9.7,6.3,0,3,0,5
-2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Away,L,0,2,Doncaster,54,6034,John Brayford,3-4-1-2,Will Finnie,Match Report,,Burton Albion,10.9,24.1,1,4,2,3
-2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Home,L,1,2,Wycombe,52,4440,John Brayford,4-2-3-1,Robert Madley,Match Report,,Burton Albion,10.1,7.9,0,0,2,2
-2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Home,D,1,1,Cheltenham,57,5301,Luke Murphy,4-3-3,Ben Toner,Match Report,,Crewe Alexandra,15.2,11.8,0,0,0,0
-2021-08-10,19:00 (20:00),EFL Cup,First round,Tue,Away,W,1,0,Hartlepool Utd,35,3149,Luke Offord,4-3-3,Thomas Bramall,Match Report,,Crewe Alexandra,16.9,11.2,0,0,1,1
-2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Away,L,0,2,Portsmouth,40,11470,Luke Murphy,4-3-3,Will Finnie,Match Report,,Crewe Alexandra,15.8,9.0,1,1,2,1
-2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Away,L,0,1,Oxford United,51,6757,Luke Murphy,4-3-3,Robert Madley,Match Report,,Crewe Alexandra,15.3,16.5,0,0,2,3
-2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Home,L,0,1,Acc'ton Stanley,53,4187,Luke Murphy,4-3-3,Darren Drysdale,Match Report,,Crewe Alexandra,17.0,4.3,0,0,2,4
-2021-08-24,19:45 (20:45),EFL Cup,Second round,Tue,Away,L,0,3,Leeds United,27,34154,Luke Murphy,4-3-3,Ben Speedie,Match Report,,Crewe Alexandra,17.4,6.3,0,0,2,5
-2021-08-28,15:00 (16:00),League One,Matchweek 5,Sat,Away,L,0,2,Charlton Ath,49,13167,Luke Murphy,4-3-3,James Bell,Match Report,,Crewe Alexandra,15.4,6.5,0,0,1,7
-2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Away,D,1,1,Shrewsbury,56,5867,Luke Murphy,3-4-3,Samuel Barrott,Match Report,,Crewe Alexandra,17.3,11.9,0,0,0,9
-2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Home,W,2,0,Burton Albion,47,4482,Luke Murphy,4-3-3,Ross Joyce,Match Report,,Crewe Alexandra,17.9,5.1,0,1,1,8
-2021-09-21,19:45 (20:45),League One,Matchweek 6,Tue,Home,L,1,3,Morecambe,63,3542,Donervon Daniels,4-3-3,Paul Howard,Match Report,,Crewe Alexandra,14.9,6.7,1,2,3,7
-2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Away,D,1,1,Rotherham Utd,49,8747,Luke Murphy,3-4-3,Samuel Allison,Match Report,,Crewe Alexandra,18.3,4.9,0,0,4,9
-2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Away,D,1,1,Plymouth Argyle,43,11138,Luke Murphy,5-4-1,Neil Hair,Match Report,,Crewe Alexandra,11.6,9.5,0,1,5,7
-2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Home,D,2,2,Cambridge Utd,50,4237,Luke Murphy,4-3-3,Tom Reeves,Match Report,,Crewe Alexandra,10.5,9.5,0,2,6,6
-2021-10-16,15:00 (16:00),League One,Matchweek 13,Sat,Away,L,0,3,Fleetwood Town,47,2917,Luke Murphy,4-3-3,Marc Edwards,Match Report,,Crewe Alexandra,10.6,5.1,0,3,7,7
-2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Home,L,0,4,Sunderland,53,5618,Luke Murphy,3-5-2,Carl Boyeson,Match Report,,Crewe Alexandra,16.9,12.2,0,0,5,10
-2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Away,L,1,2,Wycombe,53,4813,Luke Murphy,5-3-2,Steve Martin,Match Report,,Crewe Alexandra,10.7,9.5,0,0,4,11
-2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Home,L,1,4,MK Dons,56,4512,Luke Murphy,4-3-3,Andy Haines,Match Report,,Crewe Alexandra,10.6,11.6,0,0,4,12
-2021-11-02,19:45 (20:45),League One,Matchweek 12,Tue,Home,D,1,1,Doncaster,60,3392,Luke Murphy,4-3-3,Simon Mather,Match Report,,Crewe Alexandra,7.3,7.2,0,0,4,15
-2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Home,L,0,3,Swindon Town,41,2303,Luke Murphy,3-5-2,Trevor Kettle,Match Report,,Crewe Alexandra,11.2,16.4,0,1,3,14
-2021-11-12,20:00 (21:00),League One,Matchweek 17,Fri,Away,L,0,2,Bolton,43,13804,Mikael Mandron,5-3-2,James Bell,Match Report,,Crewe Alexandra,11.8,18.0,0,0,3,14
-2021-11-20,15:00 (16:00),League One,Matchweek 18,Sat,Home,W,2,0,Gillingham,61,4047,Luke Murphy,5-3-2,Anthony Backhouse,Match Report,,Crewe Alexandra,10.4,13.5,0,0,3,12
-2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Away,L,2,3,AFC Wimbledon,50,6943,Luke Murphy,5-3-2,Craig Hicks,Match Report,,Crewe Alexandra,6.7,6.3,1,1,4,10
-2021-11-28,15:00 (16:00),League One,Matchweek 20,Sun,Away,L,1,2,Ipswich Town,50,18883,Chris Porter,5-3-2,James Oldham,Match Report,,Crewe Alexandra,-0.4,5.9,0,0,5,9
-2021-12-07,19:45 (20:45),League One,Matchweek 21,Tue,Home,W,2,0,Lincoln City,53,3285,Mikael Mandron,5-3-2,Declan Bourne,Match Report,,Crewe Alexandra,5.1,16.2,0,0,5,10
-2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Home,L,0,2,Sheffield Weds,55,6325,Chris Porter,5-3-2,Lee Swabey,Match Report,,Crewe Alexandra,6.2,8.8,1,1,7,7
-2021-12-29,19:45 (20:45),League One,Matchweek 25,Wed,Away,W,2,1,Morecambe,57,3831,Luke Murphy,5-3-2,Seb Stockbridge,Match Report,,Crewe Alexandra,9.1,10.9,0,0,7,7
-2022-01-01,15:00 (16:00),League One,Matchweek 26,Sat,Away,L,1,4,Burton Albion,63,3119,Luke Murphy,5-3-2,Peter Wright,Match Report,,Crewe Alexandra,13.1,14.5,1,1,7,8
-2022-01-12,19:45 (20:45),League One,Matchweek 27,Wed,Home,W,2,1,Charlton Ath,46,3556,Mikael Mandron,5-3-2,Rob Lewis,Match Report,,Crewe Alexandra,3.2,4.6,0,0,6,9
-2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Home,D,0,0,Shrewsbury,56,5587,Luke Murphy,5-3-2,Gavin Ward,Match Report,,Crewe Alexandra,2.6,5.5,1,1,7,8
-2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Away,L,0,1,Cambridge Utd,58,5428,Chris Porter,,Samuel Allison,Match Report,,Crewe Alexandra,6.4,8.3,0,2,5,8
-2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Home,L,0,2,Rotherham Utd,53,5014,Luke Murphy,5-3-2,Ben Speedie,Match Report,,Crewe Alexandra,9.9,24.4,0,0,5,7
-2022-02-01,19:45 (20:45),League One,Matchweek 23,Tue,Away,L,0,1,Gillingham,68,4917,Luke Murphy,4-3-3,Darren Drysdale,Match Report,,Crewe Alexandra,9.9,30.0,0,0,3,8
-2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Home,L,1,4,Plymouth Argyle,54,3874,Luke Murphy,4-3-3,John Busby,Match Report,,Crewe Alexandra,11.2,24.5,0,0,2,5
-2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Away,L,1,4,Acc'ton Stanley,52,2365,Chris Porter,5-3-2,Samuel Barrott,Match Report,,Crewe Alexandra,6.4,16.3,0,0,1,8
-2022-02-15,19:45 (20:45),League One,Matchweek 31,Tue,Away,L,0,2,Wigan Athletic,45,8509,Luke Murphy,4-3-3,Tom Reeves,Match Report,,Crewe Alexandra,6.5,15.3,0,0,2,12
-2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Home,L,0,1,Oxford United,52,3968,Luke Offord,4-3-3,Scott Oldham,Match Report,,Crewe Alexandra,7.9,19.6,0,0,2,13
-2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Away,W,2,1,Cheltenham,52,4227,Luke Offord,3-5-2,Anthony Backhouse,Match Report,,Crewe Alexandra,6.6,11.1,0,0,2,12
-2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Home,L,1,3,Wycombe,61,4031,Luke Offord,3-5-2,Andy Haines,Match Report,,Crewe Alexandra,5.4,15.9,1,1,4,12
-2022-03-08,19:45 (20:45),League One,Matchweek 34,Tue,Home,L,1,3,Portsmouth,65,4307,Luke Murphy,3-5-2,Andrew Kitchen,Match Report,,Crewe Alexandra,6.6,12.4,0,0,4,11
-2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Away,L,0,2,Sunderland,31,30036,Luke Offord,3-5-2,Neil Hair,Match Report,,Crewe Alexandra,9.5,14.2,0,0,4,10
-2022-03-15,19:45 (20:45),League One,Matchweek 24,Tue,Home,L,0,2,Wigan Athletic,49,5310,Luke Offord,3-5-2,Ben Toner,Match Report,,Crewe Alexandra,8.4,7.0,0,0,4,10
-2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Home,L,0,1,Bolton,49,5985,Luke Offord,3-5-2,Sam Purkiss,Match Report,,Crewe Alexandra,10.1,12.8,0,0,4,11
-2022-04-02,15:00 (16:00),League One,Matchweek 41,Sat,Home,L,1,3,Fleetwood Town,61,3813,Luke Murphy,3-5-2,Will Finnie,Match Report,,Crewe Alexandra,4.1,5.3,0,0,2,11
-2022-04-05,19:45 (20:45),League One,Matchweek 40,Tue,Away,L,1,2,MK Dons,42,7315,Luke Murphy,3-4-3,Ross Joyce,Match Report,,Crewe Alexandra,10.6,27.4,0,0,2,11
-2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Away,L,0,2,Doncaster,51,5912,Luke Offord,3-4-3,Declan Bourne,Match Report,,Crewe Alexandra,4.9,12.9,0,0,2,10
-2022-04-15,15:00 (16:00),League One,Matchweek 43,Fri,Home,W,3,1,AFC Wimbledon,60,4668,Luke Offord,4-2-3-1,David Webb,Match Report,,Crewe Alexandra,14.1,6.2,0,0,2,10
-2022-04-19,19:45 (20:45),League One,Matchweek 44,Tue,Away,L,0,1,Sheffield Weds,39,22566,Luke Offord,4-2-3-1,Charles Breakspear,Match Report,,Crewe Alexandra,9.7,6.3,1,1,5,9
-2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Home,D,1,1,Ipswich Town,41,4986,Luke Murphy,4-2-3-1,Simon Mather,Match Report,,Crewe Alexandra,10.9,24.1,0,0,5,9
-2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Away,L,1,2,Lincoln City,47,9147,Luke Offord,4-2-3-1,Andrew Kitchen,Match Report,,Crewe Alexandra,10.1,7.9,0,1,5,7
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Club,Attendance percentage,Temperature,Wind,Win streak,Not lose streak,Last 5 games goals for,Last 5 games goals against
+2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Away,L,1,2,Sunderland,49,31549,Tendayi Darikwa,4-2-3-1,Robert Madley,Match Report,,Wigan Athletic,1.2550322221338213,15.2,11.8,0,0,0,0
+2021-08-10,19:45 (20:45),EFL Cup,First round,Tue,Away,D,1,1,Hull City,55,4139,Max Power,4-2-3-1,Martin Coy,Match Report,Wigan Athletic won on penalty kicks following normal time,Wigan Athletic,0.16465112578566313,16.9,11.2,0,0,1,2
+2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Home,W,1,0,Rotherham Utd,61,10217,Tendayi Darikwa,4-2-3-1,Rob Lewis,Match Report,,Wigan Athletic,0.40643647068183625,15.8,9.0,0,1,2,3
+2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Home,D,1,1,Wycombe,57,8671,Tendayi Darikwa,4-2-3-1,Anthony Backhouse,Match Report,,Wigan Athletic,0.34493595353647866,15.3,16.5,1,2,3,3
+2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Away,W,2,0,Charlton Ath,54,13839,Tendayi Darikwa,4-2-3-1,Craig Hicks,Match Report,,Wigan Athletic,0.5505211233988384,17.0,4.3,0,3,4,4
+2021-08-24,19:45 (20:45),EFL Cup,Second round,Tue,Home,D,0,0,Bolton,52,11660,Tendayi Darikwa,4-2-3-1,Thomas Bramall,Match Report,Wigan Athletic won on penalty kicks following normal time,Wigan Athletic,0.4638396053783117,17.4,6.3,1,4,6,4
+2021-08-28,15:00 (16:00),League One,Matchweek 5,Sat,Home,W,1,0,Portsmouth,48,9571,Tendayi Darikwa,4-2-3-1,Chris Sarginson,Match Report,,Wigan Athletic,0.38073832444904127,15.4,6.5,0,5,5,2
+2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Home,W,2,1,Doncaster,63,8975,Tendayi Darikwa,4-2-3-1,Tom Nield,Match Report,,Wigan Athletic,0.3570291988224998,17.3,11.9,1,6,5,1
+2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Away,W,4,1,Acc'ton Stanley,46,4517,Tendayi Darikwa,4-2-3-1,Andy Haines,Match Report,,Wigan Athletic,0.17968812156893946,17.9,5.1,2,7,6,2
+2021-09-21,19:45 (20:45),EFL Cup,Third round,Tue,Home,L,0,2,Sunderland,38,6511,Gavin Massey,4-2-3-1,Leigh Doughty,Match Report,,Wigan Athletic,0.25901026334632826,14.9,6.7,3,8,9,2
+2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Home,W,2,0,Cheltenham,54,8867,Tendayi Darikwa,4-2-3-1,Joshua Smith,Match Report,,Wigan Athletic,0.3527329143129923,18.3,4.9,0,0,7,4
+2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Home,L,1,2,Sheffield Weds,64,11884,Tendayi Darikwa,4-2-3-1,Samuel Barrott,Match Report,,Wigan Athletic,0.4727504176943273,11.6,9.5,1,1,9,4
+2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Away,W,2,0,Gillingham,67,4503,Tendayi Darikwa,4-2-3-1,Neil Hair,Match Report,,Wigan Athletic,0.1791311957991885,10.5,9.5,0,0,9,6
+2021-10-16,15:00 (16:00),League One,Matchweek 13,Sat,Away,W,4,0,Bolton,40,20892,Tendayi Darikwa,4-2-3-1,Charles Breakspear,Match Report,,Wigan Athletic,0.8310923701169544,10.6,5.1,1,1,9,5
+2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Home,L,1,2,MK Dons,57,8351,Tendayi Darikwa,4-2-3-1,Darren Drysdale,Match Report,,Wigan Athletic,0.33220622165645636,16.9,12.2,2,2,9,4
+2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Away,W,2,0,AFC Wimbledon,57,7979,Tendayi Darikwa,4-2-3-1,Oliver Yates,Match Report,,Wigan Athletic,0.31740790834593047,10.7,9.5,0,0,10,4
+2021-10-26,19:45 (20:45),League One,Matchweek 12,Tue,Home,L,1,2,Lincoln City,61,8707,Tendayi Darikwa,4-2-3-1,Seb Stockbridge,Match Report,,Wigan Athletic,0.34636804837298113,12.7,12.1,1,1,10,4
+2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Home,W,2,0,Burton Albion,72,9020,Tendayi Darikwa,3-5-2,Carl Brook,Match Report,,Wigan Athletic,0.35881931736812794,10.6,11.6,0,0,10,4
+2021-11-02,19:45 (20:45),League One,Matchweek 6,Tue,Away,W,3,2,Fleetwood Town,63,3246,Tendayi Darikwa,3-5-2,Ross Joyce,Match Report,,Wigan Athletic,0.12912721775797598,7.3,7.2,1,1,10,4
+2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Home,D,0,0,Solihull Moors,57,2843,Tendayi Darikwa,4-2-3-1,Daniel Middleton,Match Report,,Wigan Athletic,0.11309571167157292,11.2,16.4,2,2,9,6
+2021-11-16,19:45 (20:45),FA Cup,First round proper,Tue,Away,W,2,1,Solihull Moors,66,3703,Tendayi Darikwa,4-2-3-1,Charles Breakspear,Match Report,Required Extra Time,Wigan Athletic,0.1473068660991328,10.3,7.1,0,3,8,4
+2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Away,D,2,2,Cambridge Utd,64,4101,Max Power,4-3-3,Declan Bourne,Match Report,,Wigan Athletic,0.1631394701249105,6.7,6.3,1,4,8,5
+2021-11-27,15:00 (16:00),League One,Matchweek 20,Sat,Away,W,2,1,Plymouth Argyle,46,15329,Tendayi Darikwa,3-4-1-2,Andy Woolmer,Match Report,,Wigan Athletic,0.6097939374651922,3.1,31.2,0,5,9,5
+2021-12-05,12:30 (13:30),FA Cup,Second round proper,Sun,Away,W,2,1,Colchester Utd,48,2056,Max Power,3-4-1-2,Carl Brook,Match Report,,Wigan Athletic,0.08178852732914313,5.5,17.5,1,6,9,6
+2021-12-08,19:45 (20:45),League One,Matchweek 21,Wed,Home,W,2,1,Shrewsbury,62,8098,Tendayi Darikwa,4-2-3-1,David Rock,Match Report,,Wigan Athletic,0.3221417773888137,5.7,25.0,2,7,8,5
+2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Home,D,1,1,Ipswich Town,52,10296,Tendayi Darikwa,4-2-3-1,Trevor Kettle,Match Report,,Wigan Athletic,0.40957912323971674,6.2,8.8,3,8,10,6
+2021-12-18,15:00 (16:00),League One,Matchweek 23,Sat,Away,W,3,2,Oxford United,42,8354,Tendayi Darikwa,4-2-3-1,James Bell,Match Report,,Wigan Athletic,0.33232556289283155,5.4,4.1,0,9,9,6
+2022-01-08,15:00 (16:00),FA Cup,Third round proper,Sat,Home,W,3,2,Blackburn,52,9892,Tendayi Darikwa,3-4-3,Tim Robinson,Match Report,,Wigan Athletic,0.39350783674118867,5.7,14.7,1,10,10,6
+2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Away,W,2,1,Doncaster,59,7169,Tendayi Darikwa,4-2-3-1,Alan Young,Match Report,,Wigan Athletic,0.28518577452462407,2.6,5.5,2,11,11,7
+2022-01-18,19:45 (20:45),League One,Matchweek 17,Tue,Away,W,2,1,Morecambe,56,5359,Tendayi Darikwa,4-2-3-1,Samuel Barrott,Match Report,,Wigan Athletic,0.21318322857824806,2.2,6.0,3,12,11,7
+2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Home,W,3,2,Gillingham,61,9359,Tendayi Darikwa,,Carl Boyeson,Match Report,,Wigan Athletic,0.37230487707852655,6.4,8.3,4,13,11,7
+2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Away,D,0,0,Cheltenham,52,4405,Tendayi Darikwa,4-2-3-1,Paul Howard,Match Report,,Wigan Athletic,0.17523271541093166,9.9,24.4,5,14,13,8
+2022-02-01,19:45 (20:45),League One,Matchweek 18,Tue,Home,D,1,1,Oxford United,54,9958,Tendayi Darikwa,4-2-3-1,Andrew Kitchen,Match Report,,Wigan Athletic,0.39613334394144323,9.9,30.0,0,15,10,6
+2022-02-05,15:00 (16:00),FA Cup,Fourth round proper,Sat,Away,L,0,2,Stoke City,52,12641,Max Power,4-2-3-1,Geoff Eltringham,Match Report,,Wigan Athletic,0.5028641896730051,6.2,21.1,0,16,8,5
+2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Away,L,0,1,Sheffield Weds,54,20210,Tendayi Darikwa,4-2-3-1,Tim Robinson,Match Report,,Wigan Athletic,0.803962129047657,11.2,24.5,0,0,6,6
+2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Home,W,2,1,Charlton Ath,55,9657,Tendayi Darikwa,3-4-3,Tom Nield,Match Report,,Wigan Athletic,0.3841594398917973,6.4,16.3,0,0,4,6
+2022-02-15,19:45 (20:45),League One,Matchweek 31,Tue,Home,W,2,0,Crewe Alexandra,55,8509,Tendayi Darikwa,4-2-3-1,Tom Reeves,Match Report,,Wigan Athletic,0.33849152677221733,6.5,15.3,1,1,3,5
+2022-02-18,19:45 (20:45),League One,Matchweek 34,Fri,Away,D,1,1,Rotherham Utd,38,10588,Max Power,3-4-1-2,Jeremy Simpson,Match Report,,Wigan Athletic,0.4211950035802371,5.8,29.5,2,2,5,5
+2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Away,W,3,1,Wycombe,69,4826,Tendayi Darikwa,4-2-3-1,Thomas Bramall,Match Report,,Wigan Athletic,0.19198026891558598,7.9,19.6,0,3,5,5
+2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Home,L,0,3,Sunderland,57,20136,Tendayi Darikwa,4-2-3-1,Sam Purkiss,Match Report,,Wigan Athletic,0.8010183785504018,6.6,11.1,1,4,8,4
+2022-03-01,19:45 (20:45),League One,Matchweek 25,Tue,Home,W,2,0,Fleetwood Town,55,8627,Tendayi Darikwa,4-2-3-1,Martin Coy,Match Report,,Wigan Athletic,0.3431856154029756,6.1,10.4,0,0,8,6
+2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Home,W,1,0,AFC Wimbledon,49,9780,Max Power,4-2-3-1,Oliver Langford,Match Report,,Wigan Athletic,0.38905243058318084,5.4,15.9,1,1,8,5
+2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Away,D,1,1,MK Dons,41,11193,Max Power,3-4-3,Robert Madley,Match Report,,Wigan Athletic,0.4452621529159042,9.5,14.2,2,2,7,5
+2022-03-15,19:45 (20:45),League One,Matchweek 24,Tue,Away,W,2,0,Crewe Alexandra,52,5310,Tendayi Darikwa,3-4-3,Ben Toner,Match Report,,Wigan Athletic,0.21123398838411966,8.4,7.0,0,3,7,5
+2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Home,W,4,1,Morecambe,61,10072,Tendayi Darikwa,3-4-1-2,James Oldham,Match Report,,Wigan Athletic,0.40066831092370114,10.1,12.8,1,4,6,4
+2022-04-02,12:30 (13:30),League One,Matchweek 41,Sat,Home,D,1,1,Bolton,41,15279,Tendayi Darikwa,3-4-3,Samuel Barrott,Match Report,,Wigan Athletic,0.6078049168589387,4.1,5.3,2,5,10,2
+2022-04-05,19:45 (20:45),League One,Matchweek 26,Tue,Home,W,3,0,Acc'ton Stanley,53,9786,Tendayi Darikwa,3-4-3,Anthony Backhouse,Match Report,,Wigan Athletic,0.3892911130559313,10.6,27.4,0,6,9,3
+2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Away,W,3,1,Lincoln City,42,9498,Tendayi Darikwa,3-4-1-2,Scott Oldham,Match Report,,Wigan Athletic,0.3778343543639112,4.9,12.9,1,7,11,3
+2022-04-12,19:45 (20:45),League One,Matchweek 40,Tue,Away,D,0,0,Burton Albion,52,3589,Tendayi Darikwa,3-4-1-2,Andy Haines,Match Report,,Wigan Athletic,0.14277189911687485,11.4,8.0,2,8,13,3
+2022-04-16,17:15 (18:15),League One,Matchweek 43,Sat,Home,L,1,2,Cambridge Utd,68,10576,Tendayi Darikwa,4-2-3-1,Ross Joyce,Match Report,,Wigan Athletic,0.42071763863473627,14.6,8.3,0,9,11,3
+2022-04-19,19:45 (20:45),League One,Matchweek 44,Tue,Away,D,2,2,Ipswich Town,37,21329,Tendayi Darikwa,3-4-3,Will Finnie,Match Report,,Wigan Athletic,0.8484764102156098,9.7,6.3,0,0,8,4
+2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Home,D,1,1,Plymouth Argyle,64,14130,Tendayi Darikwa,3-4-1-2,Seb Stockbridge,Match Report,,Wigan Athletic,0.5620972233272337,10.9,24.1,0,1,9,5
+2022-04-26,19:45 (20:45),League One,Matchweek 27,Tue,Away,L,2,3,Portsmouth,46,14637,Tendayi Darikwa,3-4-1-2,Craig Hicks,Match Report,,Wigan Athletic,0.582265892274644,9.5,7.9,0,2,7,6
+2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Away,W,3,0,Shrewsbury,57,8369,Tendayi Darikwa,3-1-4-2,Steve Martin,Match Report,,Wigan Athletic,0.3329222690747076,10.1,7.9,0,0,6,8
+2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Home,W,2,1,Acc'ton Stanley,39,4551,Joe Jacobson,5-3-2,Charles Breakspear,Match Report,,Wycombe Wanderers,0.4761456371625863,15.2,11.8,0,0,0,0
+2021-08-10,19:45 (20:45),EFL Cup,First round,Tue,Away,D,0,0,Exeter City,40,2555,Matt Bloomfield,3-4-3,David Rock,Match Report,Wycombe won on penalty kicks following normal time,Wycombe Wanderers,0.26731533793680684,16.9,11.2,0,0,2,1
+2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Away,W,3,1,Cheltenham,40,3860,Joe Jacobson,5-3-2,Carl Boyeson,Match Report,,Wycombe Wanderers,0.4038501778614773,15.8,9.0,0,1,2,1
+2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Away,D,1,1,Wigan Athletic,43,8671,Joe Jacobson,5-3-2,Anthony Backhouse,Match Report,,Wycombe Wanderers,0.907198158610588,15.3,16.5,1,2,5,2
+2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Home,W,1,0,Lincoln City,39,5030,Joe Jacobson,5-3-2,James Bell,Match Report,,Wycombe Wanderers,0.526260724000837,17.0,4.3,0,3,6,3
+2021-08-24,19:45 (20:45),EFL Cup,Second round,Tue,Away,D,2,2,Stevenage,42,3292,Adebayo Akinfenwa,3-4-3,Declan Bourne,Match Report,Wycombe won on penalty kicks following normal time,Wycombe Wanderers,0.3444235195647625,17.4,6.3,1,4,7,3
+2021-08-28,15:00 (16:00),League One,Matchweek 5,Sat,Away,L,1,3,Sunderland,49,29344,Joe Jacobson,3-4-3,John Busby,Match Report,,Wycombe Wanderers,3.0700983469345053,15.4,6.5,0,5,7,4
+2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Away,D,0,0,Oxford United,33,9082,Joe Jacobson,3-4-1-2,Chris Sarginson,Match Report,,Wycombe Wanderers,0.9501987863569784,17.3,11.9,0,0,8,7
+2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Home,W,2,1,Charlton Ath,41,5832,Joe Jacobson,4-1-3-2,Peter Wright,Match Report,,Wycombe Wanderers,0.6101694915254238,17.9,5.1,0,1,5,6
+2021-09-21,19:45 (20:45),EFL Cup,Third round,Tue,Away,L,1,6,Manchester City,21,30959,Adebayo Akinfenwa,3-1-4-2,Robert Jones,Match Report,,Wycombe Wanderers,3.2390667503661854,14.9,6.7,1,2,6,6
+2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Away,L,0,1,MK Dons,21,9355,Joe Jacobson,4-1-3-2,Scott Oldham,Match Report,,Wycombe Wanderers,0.9787612471228291,18.3,4.9,0,0,6,12
+2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Away,W,2,1,Shrewsbury,47,4510,Joe Jacobson,5-3-2,Ross Joyce,Match Report,,Wycombe Wanderers,0.47185603682778826,11.6,9.5,0,0,4,11
+2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Home,W,4,3,Morecambe,53,4161,Joe Jacobson,4-1-3-2,Tom Reeves,Match Report,,Wycombe Wanderers,0.43534212178279974,10.5,9.5,1,1,5,9
+2021-10-09,15:00 (16:00),League One,Matchweek 12,Sat,Home,W,2,0,Gillingham,50,4992,Joe Jacobson,4-1-3-2,Kevin Friend,Match Report,,Wycombe Wanderers,0.5222849968612681,15.1,3.8,2,2,9,12
+2021-10-16,15:00 (16:00),League One,Matchweek 13,Sat,Away,W,2,0,Doncaster,35,6134,Adebayo Akinfenwa,3-4-1-2,Seb Stockbridge,Match Report,,Wycombe Wanderers,0.6417660598451559,10.6,5.1,3,3,9,11
+2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Away,D,0,0,Rotherham Utd,43,8104,Joe Jacobson,3-4-3,Robert Madley,Match Report,,Wycombe Wanderers,0.8478761247122829,16.9,12.2,4,4,10,5
+2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Home,W,2,1,Crewe Alexandra,47,4813,Joe Jacobson,3-4-1-2,Steve Martin,Match Report,,Wycombe Wanderers,0.5035572295459301,10.7,9.5,0,5,10,4
+2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Away,D,3,3,Fleetwood Town,38,2657,Adebayo Akinfenwa,4-4-2,Andrew Kitchen,Match Report,,Wycombe Wanderers,0.2779870265745972,10.6,11.6,1,6,10,4
+2021-11-02,19:45 (20:45),League One,Matchweek 6,Tue,Home,L,1,4,Ipswich Town,41,6943,Joe Jacobson,3-4-3,Lee Swabey,Match Report,,Wycombe Wanderers,0.7264071981586105,7.3,7.2,0,7,9,4
+2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Away,D,2,2,Hartlepool Utd,42,4271,Joe Jacobson,3-4-3,Darren Drysdale,Match Report,,Wycombe Wanderers,0.4468508056078678,11.2,16.4,0,0,8,8
+2021-11-13,15:00 (16:00),League One,Matchweek 17,Sat,Home,L,0,1,Portsmouth,56,6471,Joe Jacobson,3-4-3,Neil Hair,Match Report,,Wycombe Wanderers,0.6770244821092278,10.7,10.0,0,1,8,10
+2021-11-16,19:45 (20:45),FA Cup,First round proper,Tue,Home,L,0,1,Hartlepool Utd,58,1582,Adebayo Akinfenwa,3-4-3,Chris Pollard,Match Report,,Wycombe Wanderers,0.16551579828415985,10.3,7.1,0,0,8,11
+2021-11-20,15:00 (16:00),League One,Matchweek 18,Sat,Home,W,1,0,Bolton,43,5710,Jason McCarthy,3-4-1-2,James Oldham,Match Report,,Wycombe Wanderers,0.5974053149194393,10.4,13.5,0,0,6,11
+2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Away,W,3,0,Plymouth Argyle,34,12833,Joe Jacobson,3-4-1-2,Alan Young,Match Report,,Wycombe Wanderers,1.3426449047917974,6.7,6.3,1,1,4,8
+2021-11-27,15:00 (16:00),League One,Matchweek 20,Sat,Away,D,2,2,Sheffield Weds,40,20761,Jason McCarthy,3-4-1-2,Darren Drysdale,Match Report,,Wycombe Wanderers,2.1721071353839716,3.1,31.2,2,2,6,4
+2021-12-07,19:45 (20:45),League One,Matchweek 21,Tue,Home,W,2,1,Burton Albion,50,3602,Joe Jacobson,3-4-3,Joshua Smith,Match Report,,Wycombe Wanderers,0.37685708307177235,5.1,16.2,0,3,6,4
+2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Home,D,2,2,AFC Wimbledon,56,4915,Joe Jacobson,3-4-1-2,Will Finnie,Match Report,,Wycombe Wanderers,0.5142289181837204,6.2,8.8,1,4,8,4
+2021-12-29,19:45 (20:45),League One,Matchweek 25,Wed,Away,L,0,1,Ipswich Town,41,26456,Joe Jacobson,3-1-4-2,Samuel Barrott,Match Report,,Wycombe Wanderers,2.767943084327265,9.1,10.9,0,5,10,5
+2022-01-01,15:00 (16:00),League One,Matchweek 26,Sat,Away,W,1,0,Charlton Ath,38,18895,Joe Jacobson,3-4-1-2,Paul Howard,Match Report,,Wycombe Wanderers,1.9768780079514543,13.1,14.5,0,0,9,6
+2022-01-08,12:30 (13:30),League One,Matchweek 27,Sat,Home,D,3,3,Sunderland,44,7229,Joe Jacobson,3-4-1-2,Charles Breakspear,Match Report,,Wycombe Wanderers,0.7563297761037874,5.7,14.7,1,1,7,6
+2022-01-11,20:00 (21:00),League One,Matchweek 23,Tue,Away,W,2,0,Bolton,43,12584,Joe Jacobson,3-4-1-2,Peter Wright,Match Report,,Wycombe Wanderers,1.31659342958778,6.8,6.7,0,2,8,7
+2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Home,W,2,0,Oxford United,43,8005,Joe Jacobson,3-4-3,Anthony Backhouse,Match Report,,Wycombe Wanderers,0.8375183092697217,2.6,5.5,1,3,8,6
+2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Away,L,2,3,Morecambe,50,3865,Adebayo Akinfenwa,,Ben Toner,Match Report,,Wycombe Wanderers,0.4043732998535258,6.4,8.3,2,4,8,4
+2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Home,L,0,1,MK Dons,47,7345,Joe Jacobson,3-4-3,Rob Lewis,Match Report,,Wycombe Wanderers,0.7684662063193136,9.9,24.4,0,0,10,6
+2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Home,D,0,0,Shrewsbury,62,3871,Joe Jacobson,3-4-1-2,Sam Purkiss,Match Report,,Wycombe Wanderers,0.4050010462439841,11.2,24.5,0,0,9,7
+2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Away,D,1,1,Lincoln City,55,8319,Joe Jacobson,3-4-1-2,Oliver Yates,Match Report,,Wycombe Wanderers,0.8703703703703703,6.4,16.3,0,1,6,4
+2022-02-19,15:00 (16:00),League One,Matchweek 34,Sat,Home,D,5,5,Cheltenham,48,5574,Joe Jacobson,3-4-1-2,Neil Hair,Match Report,,Wycombe Wanderers,0.5831763967357187,3.1,14.6,0,2,5,5
+2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Home,L,1,3,Wigan Athletic,32,4826,Sam Vokes,4-3-1-2,Thomas Bramall,Match Report,,Wycombe Wanderers,0.5049173467252563,7.9,19.6,0,3,8,10
+2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Away,L,2,3,Acc'ton Stanley,44,2242,Joe Jacobson,3-4-3,Robert Madley,Match Report,,Wycombe Wanderers,0.2345679012345679,6.6,11.1,0,0,7,10
+2022-03-01,19:45 (20:45),League One,Matchweek 24,Tue,Home,W,3,0,Cambridge Utd,42,4083,Jason McCarthy,4-3-2-1,James Oldham,Match Report,,Wycombe Wanderers,0.42718141870684245,6.1,10.4,0,0,9,12
+2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Away,W,3,1,Crewe Alexandra,40,4031,Jason McCarthy,4-2-3-1,Andy Haines,Match Report,,Wycombe Wanderers,0.42174094998953754,5.4,15.9,1,1,12,12
+2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Home,D,0,0,Rotherham Utd,54,5742,Joe Jacobson,4-2-3-1,Craig Hicks,Match Report,,Wycombe Wanderers,0.60075329566855,9.5,14.2,2,2,14,12
+2022-03-15,19:45 (20:45),League One,Matchweek 40,Tue,Home,W,1,0,Fleetwood Town,55,3391,Joe Jacobson,4-2-3-1,Joshua Smith,Match Report,,Wycombe Wanderers,0.35478133500732373,8.4,7.0,0,3,9,7
+2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Away,D,0,0,Portsmouth,49,15092,Joe Jacobson,4-2-3-1,Ben Speedie,Match Report,,Wycombe Wanderers,1.5789914207993303,10.1,12.8,1,4,9,4
+2022-04-02,15:00 (16:00),League One,Matchweek 41,Sat,Home,W,2,0,Doncaster,41,5943,Joe Jacobson,4-2-3-1,John Busby,Match Report,,Wycombe Wanderers,0.6217827997489015,4.1,5.3,0,5,7,1
+2022-04-05,19:45 (20:45),League One,Matchweek 31,Tue,Away,W,4,1,Cambridge Utd,42,4751,Joe Jacobson,4-2-3-1,Will Finnie,Match Report,,Wycombe Wanderers,0.49707051684452813,10.6,27.4,1,6,6,1
+2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Away,D,1,1,Gillingham,54,4858,Joe Jacobson,4-2-3-1,Simon Mather,Match Report,,Wycombe Wanderers,0.508265327474367,4.9,12.9,2,7,7,1
+2022-04-15,15:00 (16:00),League One,Matchweek 43,Fri,Home,W,2,0,Plymouth Argyle,42,8181,Joe Jacobson,4-2-3-1,Darren Drysdale,Match Report,,Wycombe Wanderers,0.8559322033898306,14.1,6.2,0,8,8,2
+2022-04-18,15:00 (16:00),League One,Matchweek 44,Mon,Away,D,1,1,AFC Wimbledon,58,8502,Jason McCarthy,4-2-3-1,Samuel Barrott,Match Report,,Wycombe Wanderers,0.8895166352793471,10.9,8.0,1,9,9,2
+2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Home,W,1,0,Sheffield Weds,47,9005,Joe Jacobson,4-2-3-1,Andrew Davies,Match Report,,Wycombe Wanderers,0.9421427076794309,10.9,24.1,0,10,10,3
+2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Away,W,2,1,Burton Albion,48,4440,Joe Jacobson,4-2-3-1,Robert Madley,Match Report,,Wycombe Wanderers,0.4645323289391086,10.1,7.9,1,11,9,3
+2022-05-05,19:45 (20:45),League One,Semi-finals,Thu,Home,W,2,0,MK Dons,49,8987,Joe Jacobson,4-2-3-1,Darren Bond,Match Report,Leg 1 of 2,Wycombe Wanderers,0.9402594685080561,12.9,8.4,2,12,7,3
+2022-05-08,18:30 (19:30),League One,Semi-finals,Sun,Away,L,0,1,MK Dons,32,13012,Joe Jacobson,4-2-3-1,Thomas Bramall,Match Report,Leg 2 of 2; Wycombe won,Wycombe Wanderers,1.3613726721071353,12.5,5.9,3,13,8,2
+2022-05-21,15:00 (16:00),League One,Final,Sat,Neutral,L,0,2,Sunderland,51,72332,Joe Jacobson,4-2-3-1,Simon Hooper,Match Report,,Wycombe Wanderers,7.567691985771082,13.5,10.8,0,0,6,3
+2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Away,W,1,0,Shrewsbury,37,5903,John Brayford,4-2-3-1,Anthony Backhouse,Match Report,,Burton Albion,0.8540219907407407,15.2,11.8,0,0,0,0
+2021-08-11,19:45 (20:45),EFL Cup,First round,Wed,Home,D,1,1,Oxford United,41,1868,John Brayford,4-2-3-1,Seb Stockbridge,Match Report,Oxford United won on penalty kicks following normal time,Burton Albion,0.27025462962962965,16.5,8.7,0,0,1,0
+2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Home,W,2,1,Ipswich Town,35,3766,John Brayford,4-2-3-1,Sam Purkiss,Match Report,,Burton Albion,0.5448495370370371,15.8,9.0,0,1,2,1
+2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Home,W,1,0,Sunderland,40,4239,John Brayford,4-2-3-1,Declan Bourne,Match Report,,Burton Albion,0.61328125,15.3,16.5,1,2,4,2
+2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Away,L,0,3,Cambridge Utd,49,4468,John Brayford,4-2-3-1,Ben Toner,Match Report,,Burton Albion,0.6464120370370371,17.0,4.3,2,3,5,2
+2021-08-27,19:45 (20:45),League One,Matchweek 5,Fri,Home,D,1,1,Cheltenham,56,2909,John Brayford,4-2-3-1,Scott Oldham,Match Report,,Burton Albion,0.42086226851851855,15.2,10.2,0,0,5,5
+2021-09-06,20:00 (21:00),League One,Matchweek 6,Mon,Away,D,0,0,Bolton,26,13305,John Brayford,4-2-3-1,Joshua Smith,Match Report,,Burton Albion,1.9249131944444444,19.3,4.5,0,1,5,6
+2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Home,D,1,1,Gillingham,55,2555,Michael Bostwick,4-2-3-1,Carl Boyeson,Match Report,,Burton Albion,0.36964699074074076,17.3,11.9,0,2,4,5
+2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Away,L,0,2,Crewe Alexandra,53,4482,John Brayford,4-2-3-1,Ross Joyce,Match Report,,Burton Albion,0.6484375,17.9,5.1,0,3,3,5
+2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Home,L,1,2,Lincoln City,54,3359,John Brayford,4-2-3-1,Craig Hicks,Match Report,,Burton Albion,0.4859664351851852,18.3,4.9,0,0,2,7
+2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Home,W,2,1,Portsmouth,32,2810,John Brayford,4-2-3-1,Tom Nield,Match Report,,Burton Albion,0.40653935185185186,11.6,9.5,0,0,3,6
+2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Away,D,1,1,AFC Wimbledon,41,7413,John Brayford,4-2-3-1,Lee Swabey,Match Report,,Burton Albion,1.0724826388888888,10.5,9.5,1,1,4,6
+2021-10-09,15:00 (16:00),League One,Matchweek 12,Sat,Away,L,1,2,Plymouth Argyle,41,11915,Deji Oshilaja,4-2-3-1,Anthony Coggins,Match Report,,Burton Albion,1.7238136574074074,15.1,3.8,0,2,5,7
+2021-10-15,19:45 (20:45),League One,Matchweek 13,Fri,Home,W,3,2,Morecambe,42,2477,Deji Oshilaja,4-2-3-1,Martin Coy,Match Report,,Burton Albion,0.35836226851851855,10.4,7.3,0,0,5,8
+2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Away,W,1,0,Fleetwood Town,37,2226,Deji Oshilaja,3-4-1-2,Simon Mather,Match Report,,Burton Albion,0.3220486111111111,16.9,12.2,1,1,8,8
+2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Home,L,1,3,Oxford United,40,3391,Deji Oshilaja,3-4-1-2,Samuel Barrott,Match Report,,Burton Albion,0.4905960648148148,10.7,9.5,2,2,8,6
+2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Away,L,0,2,Wigan Athletic,28,9020,Deji Oshilaja,3-5-2,Carl Brook,Match Report,,Burton Albion,1.3049768518518519,10.6,11.6,0,0,7,8
+2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Away,W,2,1,Fleetwood Town,41,1362,Deji Oshilaja,3-4-1-2,Tom Reeves,Match Report,,Burton Albion,0.1970486111111111,11.2,16.4,0,0,6,9
+2021-11-13,15:00 (16:00),League One,Matchweek 17,Sat,Home,L,0,1,Charlton Ath,56,3555,Deji Oshilaja,3-4-1-2,Trevor Kettle,Match Report,,Burton Albion,0.5143229166666666,10.7,10.0,1,1,7,8
+2021-11-20,15:00 (16:00),League One,Matchweek 18,Sat,Away,L,0,1,MK Dons,55,9770,Michael Bostwick,3-4-1-2,Neil Hair,Match Report,,Burton Albion,1.4134837962962963,10.4,13.5,0,0,4,7
+2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Home,W,4,0,Acc'ton Stanley,59,1946,Ben Garratt,3-4-3,Darren Drysdale,Match Report,,Burton Albion,0.28153935185185186,6.7,6.3,0,0,3,8
+2021-11-27,15:00 (16:00),League One,Matchweek 20,Sat,Home,W,2,0,Doncaster,60,2954,Ben Garratt,3-4-3,Peter Wright,Match Report,,Burton Albion,0.4273726851851852,3.1,31.2,1,1,6,5
+2021-12-04,15:00 (16:00),FA Cup,Second round proper,Sat,Home,L,1,2,Port Vale,54,3539,Ben Garratt,3-4-3,Martin Coy,Match Report,,Burton Albion,0.5120081018518519,5.9,24.6,2,2,8,3
+2021-12-07,19:45 (20:45),League One,Matchweek 21,Tue,Away,L,1,2,Wycombe,50,3602,Ben Garratt,3-4-3,Joshua Smith,Match Report,,Burton Albion,0.5211226851851852,5.1,16.2,0,0,7,4
+2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Away,L,1,3,Rotherham Utd,52,9007,Ben Garratt,3-4-3,Samuel Allison,Match Report,,Burton Albion,1.3030960648148149,6.2,8.8,0,0,8,5
+2022-01-01,15:00 (16:00),League One,Matchweek 26,Sat,Home,W,4,1,Crewe Alexandra,37,3119,John Brayford,3-4-3,Peter Wright,Match Report,,Burton Albion,0.45124421296296297,13.1,14.5,0,0,9,7
+2022-01-08,15:00 (16:00),League One,Matchweek 27,Sat,Away,D,1,1,Cheltenham,49,3201,John Brayford,3-4-3,David Rock,Match Report,,Burton Albion,0.4631076388888889,5.7,14.7,1,1,9,8
+2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Away,W,3,1,Gillingham,48,4198,John Brayford,3-4-1-2,Thomas Bramall,Match Report,,Burton Albion,0.6073495370370371,2.6,5.5,0,2,8,9
+2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Home,D,1,1,AFC Wimbledon,61,2768,John Brayford,3-4-1-2,Andrew Kitchen,Match Report,,Burton Albion,0.40046296296296297,6.4,8.3,1,3,10,8
+2022-01-25,19:45 (20:45),League One,Matchweek 23,Tue,Home,L,0,1,MK Dons,35,2171,John Brayford,3-4-1-2,Darren Handley,Match Report,,Burton Albion,0.3140914351851852,2.1,4.5,0,4,10,7
+2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Away,W,2,1,Lincoln City,40,9159,John Brayford,3-4-1-2,Charles Breakspear,Match Report,,Burton Albion,1.3250868055555556,9.9,24.4,0,0,9,5
+2022-02-05,15:00 (16:00),League One,Matchweek 31,Sat,Home,L,0,2,Sheffield Weds,50,4763,John Brayford,3-4-3,Alan Young,Match Report,,Burton Albion,0.6890914351851852,6.2,21.1,1,1,7,5
+2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Away,L,1,2,Portsmouth,52,13407,Michael Mancienne,3-4-3,Craig Hicks,Match Report,,Burton Albion,1.9396701388888888,11.2,24.5,0,0,6,6
+2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Home,D,2,2,Cambridge Utd,50,2578,John Brayford,3-4-1-2,Marc Edwards,Match Report,,Burton Albion,0.37297453703703703,6.4,16.3,0,0,4,7
+2022-02-15,19:45 (20:45),League One,Matchweek 25,Tue,Home,W,3,1,Bolton,40,3487,John Brayford,3-4-1-2,Scott Oldham,Match Report,,Burton Albion,0.5044849537037037,6.5,15.3,0,1,5,8
+2022-02-19,15:00 (16:00),League One,Matchweek 34,Sat,Away,L,0,3,Ipswich Town,43,20516,John Brayford,3-4-1-2,Carl Brook,Match Report,,Burton Albion,2.9681712962962963,3.1,14.6,1,2,8,8
+2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Away,D,1,1,Sunderland,34,30237,John Brayford,4-5-1,Oliver Yates,Match Report,,Burton Albion,4.374565972222222,7.9,19.6,0,0,6,10
+2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Home,L,0,2,Shrewsbury,62,3258,John Brayford,3-5-2,Ben Speedie,Match Report,,Burton Albion,0.4713541666666667,6.6,11.1,0,1,7,9
+2022-03-01,19:45 (20:45),League One,Matchweek 24,Tue,Away,L,2,5,Sheffield Weds,42,20309,John Brayford,3-4-1-2,Samuel Barrott,Match Report,,Burton Albion,2.9382233796296298,6.1,10.4,0,0,6,9
+2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Away,L,1,4,Oxford United,41,7631,John Brayford,3-4-3,Sam Purkiss,Match Report,,Burton Albion,1.1040219907407407,5.4,15.9,0,0,6,12
+2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Home,W,3,2,Fleetwood Town,51,2648,John Brayford,4-2-3-1,Oliver Langford,Match Report,,Burton Albion,0.38310185185185186,9.5,14.2,0,0,4,15
+2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Away,L,0,2,Charlton Ath,54,11348,John Brayford,4-2-3-1,Rebecca Welch,Match Report,,Burton Albion,1.6417824074074074,10.1,12.8,1,1,7,14
+2022-04-02,15:00 (16:00),League One,Matchweek 41,Sat,Away,L,0,3,Morecambe,41,5238,John Brayford,4-2-3-1,Ross Joyce,Match Report,,Burton Albion,0.7578125,4.1,5.3,0,0,6,15
+2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Home,D,0,0,Plymouth Argyle,48,3938,John Brayford,3-4-1-2,Leigh Doughty,Match Report,,Burton Albion,0.5697337962962963,4.9,12.9,0,0,6,16
+2022-04-12,19:45 (20:45),League One,Matchweek 40,Tue,Home,D,0,0,Wigan Athletic,48,3589,John Brayford,3-4-1-2,Andy Haines,Match Report,,Burton Albion,0.5192418981481481,11.4,8.0,0,1,4,11
+2022-04-15,15:00 (16:00),League One,Matchweek 43,Fri,Away,D,0,0,Acc'ton Stanley,42,2513,John Brayford,3-4-1-2,Oliver Yates,Match Report,,Burton Albion,0.36357060185185186,14.1,6.2,0,2,3,7
+2022-04-19,19:45 (20:45),League One,Matchweek 44,Tue,Home,W,2,0,Rotherham Utd,42,3537,John Brayford,3-4-1-2,Tom Reeves,Match Report,,Burton Albion,0.51171875,9.7,6.3,0,3,0,5
+2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Away,L,0,2,Doncaster,54,6034,John Brayford,3-4-1-2,Will Finnie,Match Report,,Burton Albion,0.8729745370370371,10.9,24.1,1,4,2,3
+2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Home,L,1,2,Wycombe,52,4440,John Brayford,4-2-3-1,Robert Madley,Match Report,,Burton Albion,0.6423611111111112,10.1,7.9,0,0,2,2
+2021-08-07,15:00 (16:00),League One,Matchweek 1,Sat,Home,D,1,1,Cheltenham,57,5301,Luke Murphy,4-3-3,Ben Toner,Match Report,,Crewe Alexandra,0.5221116911257756,15.2,11.8,0,0,0,0
+2021-08-10,19:00 (20:00),EFL Cup,First round,Tue,Away,W,1,0,Hartlepool Utd,35,3149,Luke Offord,4-3-3,Thomas Bramall,Match Report,,Crewe Alexandra,0.3101546340982961,16.9,11.2,0,0,1,1
+2021-08-14,15:00 (16:00),League One,Matchweek 2,Sat,Away,L,0,2,Portsmouth,40,11470,Luke Murphy,4-3-3,Will Finnie,Match Report,,Crewe Alexandra,1.1297153550674677,15.8,9.0,1,1,2,1
+2021-08-17,19:45 (20:45),League One,Matchweek 3,Tue,Away,L,0,1,Oxford United,51,6757,Luke Murphy,4-3-3,Robert Madley,Match Report,,Crewe Alexandra,0.6655175810105387,15.3,16.5,0,0,2,3
+2021-08-21,15:00 (16:00),League One,Matchweek 4,Sat,Home,L,0,1,Acc'ton Stanley,53,4187,Luke Murphy,4-3-3,Darren Drysdale,Match Report,,Crewe Alexandra,0.4123904264749335,17.0,4.3,0,0,2,4
+2021-08-24,19:45 (20:45),EFL Cup,Second round,Tue,Away,L,0,3,Leeds United,27,34154,Luke Murphy,4-3-3,Ben Speedie,Match Report,,Crewe Alexandra,3.363931842805082,17.4,6.3,0,0,2,5
+2021-08-28,15:00 (16:00),League One,Matchweek 5,Sat,Away,L,0,2,Charlton Ath,49,13167,Luke Murphy,4-3-3,James Bell,Match Report,,Crewe Alexandra,1.2968580715059588,15.4,6.5,0,0,1,7
+2021-09-11,15:00 (16:00),League One,Matchweek 7,Sat,Away,D,1,1,Shrewsbury,56,5867,Luke Murphy,3-4-3,Samuel Barrott,Match Report,,Crewe Alexandra,0.5778587609573526,17.3,11.9,0,0,0,9
+2021-09-18,15:00 (16:00),League One,Matchweek 8,Sat,Home,W,2,0,Burton Albion,47,4482,Luke Murphy,4-3-3,Ross Joyce,Match Report,,Crewe Alexandra,0.4414458780655964,17.9,5.1,0,1,1,8
+2021-09-21,19:45 (20:45),League One,Matchweek 6,Tue,Home,L,1,3,Morecambe,63,3542,Donervon Daniels,4-3-3,Paul Howard,Match Report,,Crewe Alexandra,0.3488624052004334,14.9,6.7,1,2,3,7
+2021-09-25,15:00 (16:00),League One,Matchweek 9,Sat,Away,D,1,1,Rotherham Utd,49,8747,Luke Murphy,3-4-3,Samuel Allison,Match Report,,Crewe Alexandra,0.8615187629272136,18.3,4.9,0,0,4,9
+2021-09-28,19:45 (20:45),League One,Matchweek 10,Tue,Away,D,1,1,Plymouth Argyle,43,11138,Luke Murphy,5-4-1,Neil Hair,Match Report,,Crewe Alexandra,1.097015660395942,11.6,9.5,0,1,5,7
+2021-10-02,15:00 (16:00),League One,Matchweek 11,Sat,Home,D,2,2,Cambridge Utd,50,4237,Luke Murphy,4-3-3,Tom Reeves,Match Report,,Crewe Alexandra,0.41731507928691025,10.5,9.5,0,2,6,6
+2021-10-16,15:00 (16:00),League One,Matchweek 13,Sat,Away,L,0,3,Fleetwood Town,47,2917,Luke Murphy,4-3-3,Marc Edwards,Match Report,,Crewe Alexandra,0.28730424505072394,10.6,5.1,0,3,7,7
+2021-10-19,19:45 (20:45),League One,Matchweek 14,Tue,Home,L,0,4,Sunderland,53,5618,Luke Murphy,3-5-2,Carl Boyeson,Match Report,,Crewe Alexandra,0.5533339899537083,16.9,12.2,0,0,5,10
+2021-10-23,15:00 (16:00),League One,Matchweek 15,Sat,Away,L,1,2,Wycombe,53,4813,Luke Murphy,5-3-2,Steve Martin,Match Report,,Crewe Alexandra,0.4740470796808825,10.7,9.5,0,0,4,11
+2021-10-30,15:00 (16:00),League One,Matchweek 16,Sat,Home,L,1,4,MK Dons,56,4512,Luke Murphy,4-3-3,Andy Haines,Match Report,,Crewe Alexandra,0.4444006697527824,10.6,11.6,0,0,4,12
+2021-11-02,19:45 (20:45),League One,Matchweek 12,Tue,Home,D,1,1,Doncaster,60,3392,Luke Murphy,4-3-3,Simon Mather,Match Report,,Crewe Alexandra,0.3340884467645031,7.3,7.2,0,0,4,15
+2021-11-06,15:00 (16:00),FA Cup,First round proper,Sat,Home,L,0,3,Swindon Town,41,2303,Luke Murphy,3-5-2,Trevor Kettle,Match Report,,Crewe Alexandra,0.22682950851964936,11.2,16.4,0,1,3,14
+2021-11-12,20:00 (21:00),League One,Matchweek 17,Fri,Away,L,0,2,Bolton,43,13804,Mikael Mandron,5-3-2,James Bell,Match Report,,Crewe Alexandra,1.3595981483305426,11.8,18.0,0,0,3,14
+2021-11-20,15:00 (16:00),League One,Matchweek 18,Sat,Home,W,2,0,Gillingham,61,4047,Luke Murphy,5-3-2,Anthony Backhouse,Match Report,,Crewe Alexandra,0.3986013986013986,10.4,13.5,0,0,3,12
+2021-11-23,19:45 (20:45),League One,Matchweek 19,Tue,Away,L,2,3,AFC Wimbledon,50,6943,Luke Murphy,5-3-2,Craig Hicks,Match Report,,Crewe Alexandra,0.6838372894710922,6.7,6.3,1,1,4,10
+2021-11-28,15:00 (16:00),League One,Matchweek 20,Sun,Away,L,1,2,Ipswich Town,50,18883,Chris Porter,5-3-2,James Oldham,Match Report,,Crewe Alexandra,1.8598443809711416,-0.4,5.9,0,0,5,9
+2021-12-07,19:45 (20:45),League One,Matchweek 21,Tue,Home,W,2,0,Lincoln City,53,3285,Mikael Mandron,5-3-2,Declan Bourne,Match Report,,Crewe Alexandra,0.32354968974687287,5.1,16.2,0,0,5,10
+2021-12-11,15:00 (16:00),League One,Matchweek 22,Sat,Home,L,0,2,Sheffield Weds,55,6325,Chris Porter,5-3-2,Lee Swabey,Match Report,,Crewe Alexandra,0.6229685807150596,6.2,8.8,1,1,7,7
+2021-12-29,19:45 (20:45),League One,Matchweek 25,Wed,Away,W,2,1,Morecambe,57,3831,Luke Murphy,5-3-2,Seb Stockbridge,Match Report,,Crewe Alexandra,0.377326898453659,9.1,10.9,0,0,7,7
+2022-01-01,15:00 (16:00),League One,Matchweek 26,Sat,Away,L,1,4,Burton Albion,63,3119,Luke Murphy,5-3-2,Peter Wright,Match Report,,Crewe Alexandra,0.30719984241111004,13.1,14.5,1,1,7,8
+2022-01-12,19:45 (20:45),League One,Matchweek 27,Wed,Home,W,2,1,Charlton Ath,46,3556,Mikael Mandron,5-3-2,Rob Lewis,Match Report,,Crewe Alexandra,0.35024130798778685,3.2,4.6,0,0,6,9
+2022-01-15,15:00 (16:00),League One,Matchweek 28,Sat,Home,D,0,0,Shrewsbury,56,5587,Luke Murphy,5-3-2,Gavin Ward,Match Report,,Crewe Alexandra,0.5502807052102827,2.6,5.5,1,1,7,8
+2022-01-22,15:00 (16:00),League One,Matchweek 29,Sat,Away,L,0,1,Cambridge Utd,58,5428,Chris Porter,,Samuel Allison,Match Report,,Crewe Alexandra,0.5346203092681966,6.4,8.3,0,2,5,8
+2022-01-29,15:00 (16:00),League One,Matchweek 30,Sat,Home,L,0,2,Rotherham Utd,53,5014,Luke Murphy,5-3-2,Ben Speedie,Match Report,,Crewe Alexandra,0.49384418398502905,9.9,24.4,0,0,5,7
+2022-02-01,19:45 (20:45),League One,Matchweek 23,Tue,Away,L,0,1,Gillingham,68,4917,Luke Murphy,4-3-3,Darren Drysdale,Match Report,,Crewe Alexandra,0.48429035752979416,9.9,30.0,0,0,3,8
+2022-02-08,19:45 (20:45),League One,Matchweek 32,Tue,Home,L,1,4,Plymouth Argyle,54,3874,Luke Murphy,4-3-3,John Busby,Match Report,,Crewe Alexandra,0.38156209987195905,11.2,24.5,0,0,2,5
+2022-02-12,15:00 (16:00),League One,Matchweek 33,Sat,Away,L,1,4,Acc'ton Stanley,52,2365,Chris Porter,5-3-2,Samuel Barrott,Match Report,,Crewe Alexandra,0.23293607800650054,6.4,16.3,0,0,1,8
+2022-02-15,19:45 (20:45),League One,Matchweek 31,Tue,Away,L,0,2,Wigan Athletic,45,8509,Luke Murphy,4-3-3,Tom Reeves,Match Report,,Crewe Alexandra,0.8380774155422043,6.5,15.3,0,0,2,12
+2022-02-22,19:45 (20:45),League One,Matchweek 35,Tue,Home,L,0,1,Oxford United,52,3968,Luke Offord,4-3-3,Scott Oldham,Match Report,,Crewe Alexandra,0.3908204471584753,7.9,19.6,0,0,2,13
+2022-02-26,15:00 (16:00),League One,Matchweek 36,Sat,Away,W,2,1,Cheltenham,52,4227,Luke Offord,3-5-2,Anthony Backhouse,Match Report,,Crewe Alexandra,0.4163301487245149,6.6,11.1,0,0,2,12
+2022-03-05,15:00 (16:00),League One,Matchweek 37,Sat,Home,L,1,3,Wycombe,61,4031,Luke Offord,3-5-2,Andy Haines,Match Report,,Crewe Alexandra,0.397025509701566,5.4,15.9,1,1,4,12
+2022-03-08,19:45 (20:45),League One,Matchweek 34,Tue,Home,L,1,3,Portsmouth,65,4307,Luke Murphy,3-5-2,Andrew Kitchen,Match Report,,Crewe Alexandra,0.42420959322367774,6.6,12.4,0,0,4,11
+2022-03-12,15:00 (16:00),League One,Matchweek 38,Sat,Away,L,0,2,Sunderland,31,30036,Luke Offord,3-5-2,Neil Hair,Match Report,,Crewe Alexandra,2.9583374372106768,9.5,14.2,0,0,4,10
+2022-03-15,19:45 (20:45),League One,Matchweek 24,Tue,Home,L,0,2,Wigan Athletic,49,5310,Luke Offord,3-5-2,Ben Toner,Match Report,,Crewe Alexandra,0.5229981286319314,8.4,7.0,0,0,4,10
+2022-03-19,15:00 (16:00),League One,Matchweek 39,Sat,Home,L,0,1,Bolton,49,5985,Luke Offord,3-5-2,Sam Purkiss,Match Report,,Crewe Alexandra,0.5894809415936176,10.1,12.8,0,0,4,11
+2022-04-02,15:00 (16:00),League One,Matchweek 41,Sat,Home,L,1,3,Fleetwood Town,61,3813,Luke Murphy,3-5-2,Will Finnie,Match Report,,Crewe Alexandra,0.37555402344134736,4.1,5.3,0,0,2,11
+2022-04-05,19:45 (20:45),League One,Matchweek 40,Tue,Away,L,1,2,MK Dons,42,7315,Luke Murphy,3-4-3,Ross Joyce,Match Report,,Crewe Alexandra,0.7204767063921993,10.6,27.4,0,0,2,11
+2022-04-09,15:00 (16:00),League One,Matchweek 42,Sat,Away,L,0,2,Doncaster,51,5912,Luke Offord,3-4-3,Declan Bourne,Match Report,,Crewe Alexandra,0.5822909484881316,4.9,12.9,0,0,2,10
+2022-04-15,15:00 (16:00),League One,Matchweek 43,Fri,Home,W,3,1,AFC Wimbledon,60,4668,Luke Offord,4-2-3-1,David Webb,Match Report,,Crewe Alexandra,0.4597655865261499,14.1,6.2,0,0,2,10
+2022-04-19,19:45 (20:45),League One,Matchweek 44,Tue,Away,L,0,1,Sheffield Weds,39,22566,Luke Offord,4-2-3-1,Charles Breakspear,Match Report,,Crewe Alexandra,2.222594307101349,9.7,6.3,1,1,5,9
+2022-04-23,15:00 (16:00),League One,Matchweek 45,Sat,Home,D,1,1,Ipswich Town,41,4986,Luke Murphy,4-2-3-1,Simon Mather,Match Report,,Crewe Alexandra,0.4910863784103221,10.9,24.1,0,0,5,9
+2022-04-30,12:30 (13:30),League One,Matchweek 46,Sat,Away,L,1,2,Lincoln City,47,9147,Luke Offord,4-2-3-1,Andrew Kitchen,Match Report,,Crewe Alexandra,0.9009159854230276,10.1,7.9,0,1,5,7

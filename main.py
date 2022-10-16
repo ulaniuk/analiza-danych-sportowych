@@ -1,17 +1,24 @@
 import pandas as pd
 import plotly.express as px
-import meteostat
 
 from datetime import datetime
 from meteostat import Point, Daily
 
 
 # Stadiums locations
-location = {
+stadium_location = {
     "Wigan Athletic": Point(53.087216437622686, -2.4333814565533727, 0),
     "Burton Albion": Point(53.087216437622686, -2.4333814565533727, 0),
     "Crewe Alexandra": Point(53.087216437622686, -2.4333814565533727, 0),
     "Wycombe Wanderers": Point(53.087216437622686, -2.4333814565533727, 0),
+}
+
+# Stadiums capacity
+stadium_capacity = {
+    "Wigan Athletic": 25_138, 
+    "Burton Albion": 6_912,
+    "Crewe Alexandra": 10_153,
+    "Wycombe Wanderers": 9_558,
 }
 
 def get_temperature(location, date):
@@ -102,7 +109,10 @@ df_alexandra["Club"] = "Crewe Alexandra"
 df_wycombe["Club"] = "Wycombe Wanderers"
 
 for df in [df_wigan, df_albion, df_alexandra, df_wycombe]:
-    location_point = location[df['Club'].values[0]]
+    location_point = stadium_location[df['Club'].values[0]]
+    capacity = stadium_capacity[df['Club'].values[0]]
+
+    df['Attendance percentage'] = df['Attendance'].apply(lambda x: x/capacity)
 
     df['Temperature'] = df['Date'].apply(lambda x: get_temperature(location_point, x))
     df['Wind'] = df['Date'].apply(lambda x: get_wind_speed(location_point, x))
